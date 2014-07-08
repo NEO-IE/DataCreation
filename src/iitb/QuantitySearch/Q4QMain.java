@@ -47,7 +47,7 @@ public class Q4QMain {
 	private String HTMLfile_base_dir = "HTMLfiles_new/";
 */	
 	public static String metadataFile = "data/fetched_result.xml";
-	public static String goldDataFile = "data/worldbank_vals_1.csv";
+	public static String goldDataFile = "data/worldbank_vals_p1.csv";
 	Document metadataDoc;
 	Element metaindex;
 
