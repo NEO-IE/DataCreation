@@ -1,0 +1,1843 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+        <link rel="alternate" hreflang="de" href="http://populationpyramid.net/de/vereinigte-arabische-emirate/" />
+    
+        <link rel="alternate" hreflang="en" href="http://populationpyramid.net/united-arab-emirates/" />
+    
+        <link rel="alternate" hreflang="es" href="http://populationpyramid.net/es/emiratos-arabes-unidos/" />
+    
+        <link rel="alternate" hreflang="fr" href="http://populationpyramid.net/fr/emirats-arabes-unis/" />
+    
+        <link rel="alternate" hreflang="it" href="http://populationpyramid.net/it/emirati-arabi-uniti/" />
+    
+        <link rel="alternate" hreflang="ja" href="http://populationpyramid.net/ja/アラブ首長国連邦/" />
+    
+        <link rel="alternate" hreflang="ko" href="http://populationpyramid.net/ko/아랍에미리트/" />
+    
+        <link rel="alternate" hreflang="nl" href="http://populationpyramid.net/nl/verenigde-arabische-emiraten/" />
+    
+        <link rel="alternate" hreflang="pl" href="http://populationpyramid.net/pl/zjednoczone-emiraty-arabskie/" />
+    
+        <link rel="alternate" hreflang="pt" href="http://populationpyramid.net/pt/emirados-arabes-unidos/" />
+    
+        <link rel="alternate" hreflang="ru" href="http://populationpyramid.net/ru/объединённые-арабские-эмираты/" />
+    
+        <link rel="alternate" hreflang="zh" href="http://populationpyramid.net/zh/阿拉伯联合酋长国/" />
+    
+    <meta charset="utf-8"/>
+    
+        
+          <title>Population Pyramid of United Arab Emirates</title>
+        
+    
+    <!-- facebook open graphs tags-->
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
+    <meta property="og:title" content="PopulationPyramid.net"/>
+    <meta property="og:type" content="website"/>
+
+    <meta property="og:url" content="http://populationpyramid.net"/>
+    <meta property="og:image" content="http://populationpyramid.net/static/share-image.png"/>
+    <meta property="og:site_name" content="PopulationPyramid.net"/>
+    <meta property="fb:admins" content="548900828"/>
+
+    <meta property="og:description"
+          content="Population Pyramid of United Arab Emirates in 2010"/>
+
+
+    <!-- schema.org tags, mainly for google+-->
+    
+
+    <meta itemprop="image" content="http://populationpyramid.net/static/share-image.png">
+    <META name="description"
+          content="Population Pyramid of United Arab Emirates in 2010"/>
+    <META name="keywords"
+          content="United Arab Emirates,2010, Age Pyramid, Population, Pyramid, Demographics, Visualization"/>
+
+    <link href='http://fonts.googleapis.com/css?family=Ubuntu:400italic|Prata' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/static/css/base.css"/>
+
+   <script type="text/javascript" src="/static/js/raphael.js"></script>
+    <script type="text/javascript" src="/static/js/jquery.js"></script>
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21050559-1']);
+        _gaq.push(['_trackPageview']);
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <script type="text/javascript">
+        var currentCountry = "united-arab-emirates";
+        var currentYear = "2010";
+        var currentLetter = "U";
+        var language = "en";
+        var maleString = "Male";
+        var femaleString = "Female";
+        var populationSizeString =  "Population Size";
+        var yearString =  "year";
+        var available_languages = ["de", "en", "es", "fr", "it", "ja", "ko", "nl", "pl", "pt", "ru", "zh"];
+    </script>
+    <script type="text/javascript" src="/static/js/pyramid.js"></script>
+    <link rel="shortcut icon" href="/static/favicon.ico">
+</head>
+<body>
+<div id="title" style="color:white; background-color:#07669d;
+    font-size : 15px;
+    padding: 5px 0 5px 0; border-bottom:solid #D156BF 1px;">
+
+    <div style="width:960px; margin:auto;">
+        <h1 style="padding:0 0 0 0px;text-shadow: 0px -1px 0 #3796CA;width:420px;">Population Pyramids of the World from 1950 to 2100</h1>
+        <!--<div style="float:right; margin-top:-19px;"><g:plusone size="medium" annotation="inline" width="120" href="http://populationpyramid.net"></g:plusone>
+        </div>-->
+
+        <p style="float:right; margin-top:-17px; margin-right:25px; color:#66A7CC; font-size:0.8em;"><a
+                href="http://en.wikipedia.org/wiki/Population_pyramid"
+                style="color:#66A7CC;text-decoration: underline; ">What is a population pyramid?</a></p>
+    </div>
+
+</div>
+<div id="skyscraper" style="float:right;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- skyscraper -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-1518193825189302"
+     data-ad-slot="2693670873"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div id="container">
+    <div id="i18n_links" style="float:right; padding:10px; padding-right:25px;font-size: 0.8em;">
+        
+
+        <a  href="/de/vereinigte-arabische-emirate/">de</a>
+    
+
+        <a  class="language_selected" href="/united-arab-emirates/">en</a>
+    
+
+        <a  href="/es/emiratos-arabes-unidos/">es</a>
+    
+
+        <a  href="/fr/emirats-arabes-unis/">fr</a>
+    
+
+        <a  href="/it/emirati-arabi-uniti/">it</a>
+    
+
+        <a  href="/ja/アラブ首長国連邦/">ja</a>
+    
+
+        <a  href="/ko/아랍에미리트/">ko</a>
+    
+
+        <a  href="/nl/verenigde-arabische-emiraten/">nl</a>
+    
+
+        <a  href="/pl/zjednoczone-emiraty-arabskie/">pl</a>
+    
+
+        <a  href="/pt/emirados-arabes-unidos/">pt</a>
+    
+
+        <a  href="/ru/объединённые-арабские-эмираты/">ru</a>
+    
+
+        <a  href="/zh/阿拉伯联合酋长国/">zh</a>
+    
+    </div>
+    <div style="width:960px; padding: 10px 0 0px 0;">
+        <h2>
+             <a href="http://populationpyramid.net/united-arab-emirates/" id="currentCountryLink"><span id="currentCountry">United Arab Emirates</span></a>
+        </h2>
+        <div style="width:450px;">
+            <h2 style="float:right" >
+                <span id="pop_span">Population:</span>
+                <span id="tot_pop"></span>
+            </h2>
+
+            <h2 >
+                <span id="currentYear" >2010</span>
+            </h2>
+
+
+        </div>
+    </div>
+
+    <div id="content">
+        <div id="right_content_div">
+            <div id="clickAYearDiv">
+                <h3>Click on a Year:</h3>
+
+                <div id="selectBox">
+                    <select id="yearSelect">
+                        
+                        <option value="1950"> 1950
+                        </option>
+                        
+                        <option value="1955"> 1955
+                        </option>
+                        
+                        <option value="1960"> 1960
+                        </option>
+                        
+                        <option value="1965"> 1965
+                        </option>
+                        
+                        <option value="1970"> 1970
+                        </option>
+                        
+                        <option value="1975"> 1975
+                        </option>
+                        
+                        <option value="1980"> 1980
+                        </option>
+                        
+                        <option value="1985"> 1985
+                        </option>
+                        
+                        <option value="1990"> 1990
+                        </option>
+                        
+                        <option value="1995"> 1995
+                        </option>
+                        
+                        <option value="2000"> 2000
+                        </option>
+                        
+                        <option value="2005"> 2005
+                        </option>
+                        
+                        <option value="2010"> 2010
+                        </option>
+                        
+                        <option value="2015"> 2015
+                        </option>
+                        
+                        <option value="2020"> 2020
+                        </option>
+                        
+                        <option value="2025"> 2025
+                        </option>
+                        
+                        <option value="2030"> 2030
+                        </option>
+                        
+                        <option value="2035"> 2035
+                        </option>
+                        
+                        <option value="2040"> 2040
+                        </option>
+                        
+                        <option value="2045"> 2045
+                        </option>
+                        
+                        <option value="2050"> 2050
+                        </option>
+                        
+                        <option value="2055"> 2055
+                        </option>
+                        
+                        <option value="2060"> 2060
+                        </option>
+                        
+                        <option value="2065"> 2065
+                        </option>
+                        
+                        <option value="2070"> 2070
+                        </option>
+                        
+                        <option value="2075"> 2075
+                        </option>
+                        
+                        <option value="2080"> 2080
+                        </option>
+                        
+                        <option value="2085"> 2085
+                        </option>
+                        
+                        <option value="2090"> 2090
+                        </option>
+                        
+                        <option value="2095"> 2095
+                        </option>
+                        
+                        <option value="2100"> 2100
+                        </option>
+                        
+                    </select>
+                </div>
+            </div>
+            <div id="curve_div">
+                <div id="canvas_container2"></div>
+            </div>
+            <div id="years">
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/1950/" id="1950">1950</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/1955/" id="1955">1955</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/1960/" id="1960">1960</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/1965/" id="1965">1965</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/1970/" id="1970">1970</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/1975/" id="1975">1975</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/1980/" id="1980">1980</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/1985/" id="1985">1985</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/1990/" id="1990">1990</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/1995/" id="1995">1995</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2000/" id="2000">2000</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2005/" id="2005">2005</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  selected_link  "
+                       href="/en/united-arab-emirates/" id="2010">2010</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2015/" id="2015">2015</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2020/" id="2020">2020</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2025/" id="2025">2025</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2030/" id="2030">2030</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2035/" id="2035">2035</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2040/" id="2040">2040</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2045/" id="2045">2045</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2050/" id="2050">2050</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2055/" id="2055">2055</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2060/" id="2060">2060</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2065/" id="2065">2065</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2070/" id="2070">2070</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2075/" id="2075">2075</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2080/" id="2080">2080</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2085/" id="2085">2085</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2090/" id="2090">2090</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2095/" id="2095">2095</a>
+                </div>
+                
+                <div class="year_div box_rotate">
+                    <a class="year_link  "
+                       href="/en/united-arab-emirates/2100/" id="2100">2100</a>
+                </div>
+                
+            </div>
+            <h3 id="clickOnACountry">Click on a Country:</h3>
+
+            <div id="countriesTabs" style="clear:both;">
+                <ul>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-A">A</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-B">B</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-C">C</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-D">D</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-E">E</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-F">F</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-G">G</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-H">H</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-I">I</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-J">J</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-K">K</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-L">L</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-M">M</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-N">N</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-O">O</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-P">P</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-Q">Q</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-R">R</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-S">S</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-T">T</a></li>
+                    
+                    <li class="alphaTab  selectedTab  "><a
+                            href="#tabs-U">U</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-V">V</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-W">W</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-Y">Y</a></li>
+                    
+                    <li class="alphaTab  "><a
+                            href="#tabs-Z">Z</a></li>
+                    
+                </ul>
+            </div>
+            <div id="countries">
+                
+                <div class="countryList" id="tabs-A">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/afghanistan/" id="afghanistan">Afghanistan</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/africa/" id="africa">AFRICA</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/albania/" id="albania">Albania</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/algeria/" id="algeria">Algeria</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/angola/" id="angola">Angola</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/antigua-and-barbuda/" id="antigua-and-barbuda">Antigua and Barbuda</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/argentina/" id="argentina">Argentina</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/armenia/" id="armenia">Armenia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/aruba/" id="aruba">Aruba</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/asia/" id="asia">ASIA</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/australia/" id="australia">Australia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/australia-new-zealand/" id="australia-new-zealand">Australia/New Zealand</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/austria/" id="austria">Austria</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/azerbaijan/" id="azerbaijan">Azerbaijan</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-B">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/bahamas/" id="bahamas">Bahamas</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/bahrain/" id="bahrain">Bahrain</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/bangladesh/" id="bangladesh">Bangladesh</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/barbados/" id="barbados">Barbados</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/belarus/" id="belarus">Belarus</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/belgium/" id="belgium">Belgium</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/belize/" id="belize">Belize</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/benin/" id="benin">Benin</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/bhutan/" id="bhutan">Bhutan</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/bolivia-plurinational-state-of/" id="bolivia-plurinational-state-of">Bolivia (Plurinational State of)</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/bosnia-and-herzegovina/" id="bosnia-and-herzegovina">Bosnia and Herzegovina</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/botswana/" id="botswana">Botswana</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/brazil/" id="brazil">Brazil</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/brunei-darussalam/" id="brunei-darussalam">Brunei Darussalam</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/bulgaria/" id="bulgaria">Bulgaria</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/burkina-faso/" id="burkina-faso">Burkina Faso</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/burundi/" id="burundi">Burundi</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-C">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/cambodia/" id="cambodia">Cambodia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/cameroon/" id="cameroon">Cameroon</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/canada/" id="canada">Canada</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/cape-verde/" id="cape-verde">Cape Verde</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/caribbean/" id="caribbean">Caribbean</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/central-african-republic/" id="central-african-republic">Central African Republic</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/central-america/" id="central-america">Central America</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/central-asia/" id="central-asia">Central Asia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/chad/" id="chad">Chad</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/channel-islands/" id="channel-islands">Channel Islands</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/chile/" id="chile">Chile</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/china/" id="china">China</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/colombia/" id="colombia">Colombia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/comoros/" id="comoros">Comoros</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/congo/" id="congo">Congo</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/costa-rica/" id="costa-rica">Costa Rica</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/croatia/" id="croatia">Croatia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/cte-d-ivoire/" id="cte-d-ivoire">Cte d&#39;Ivoire</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/cuba/" id="cuba">Cuba</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/curaao/" id="curaao">Curaao</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/cyprus/" id="cyprus">Cyprus</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/czech-republic/" id="czech-republic">Czech Republic</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-D">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/dem-people-s-republic-of-korea/" id="dem-people-s-republic-of-korea">Dem. People&#39;s Republic of Korea</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/democratic-republic-of-the-congo/" id="democratic-republic-of-the-congo">Democratic Republic of the Congo</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/denmark/" id="denmark">Denmark</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/djibouti/" id="djibouti">Djibouti</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/dominican-republic/" id="dominican-republic">Dominican Republic</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-E">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/eastern-africa/" id="eastern-africa">Eastern Africa</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/eastern-asia/" id="eastern-asia">Eastern Asia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/eastern-europe/" id="eastern-europe">Eastern Europe</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/ecuador/" id="ecuador">Ecuador</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/egypt/" id="egypt">Egypt</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/el-salvador/" id="el-salvador">El Salvador</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/equatorial-guinea/" id="equatorial-guinea">Equatorial Guinea</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/eritrea/" id="eritrea">Eritrea</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/estonia/" id="estonia">Estonia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/ethiopia/" id="ethiopia">Ethiopia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/europe/" id="europe">EUROPE</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-F">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/fiji/" id="fiji">Fiji</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/finland/" id="finland">Finland</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/france/" id="france">France</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/french-guiana/" id="french-guiana">French Guiana</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/french-polynesia/" id="french-polynesia">French Polynesia</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-G">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/gabon/" id="gabon">Gabon</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/gambia/" id="gambia">Gambia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/georgia/" id="georgia">Georgia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/germany/" id="germany">Germany</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/ghana/" id="ghana">Ghana</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/greece/" id="greece">Greece</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/grenada/" id="grenada">Grenada</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/guadeloupe/" id="guadeloupe">Guadeloupe</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/guam/" id="guam">Guam</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/guatemala/" id="guatemala">Guatemala</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/guinea/" id="guinea">Guinea</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/guinea-bissau/" id="guinea-bissau">Guinea-Bissau</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/guyana/" id="guyana">Guyana</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-H">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/haiti/" id="haiti">Haiti</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/honduras/" id="honduras">Honduras</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/hong-kong-sar-china/" id="hong-kong-sar-china">Hong Kong SAR (China)</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/hungary/" id="hungary">Hungary</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-I">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/iceland/" id="iceland">Iceland</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/india/" id="india">India</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/indonesia/" id="indonesia">Indonesia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/iran-islamic-republic-of/" id="iran-islamic-republic-of">Iran (Islamic Republic of)</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/iraq/" id="iraq">Iraq</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/ireland/" id="ireland">Ireland</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/israel/" id="israel">Israel</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/italy/" id="italy">Italy</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-J">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/jamaica/" id="jamaica">Jamaica</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/japan/" id="japan">Japan</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/jordan/" id="jordan">Jordan</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-K">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/kazakhstan/" id="kazakhstan">Kazakhstan</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/kenya/" id="kenya">Kenya</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/kiribati/" id="kiribati">Kiribati</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/kuwait/" id="kuwait">Kuwait</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/kyrgyzstan/" id="kyrgyzstan">Kyrgyzstan</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-L">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/lao-people-s-democratic-republic/" id="lao-people-s-democratic-republic">Lao People&#39;s Democratic Republic</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/latin-america-and-the-caribbean/" id="latin-america-and-the-caribbean">LATIN AMERICA AND THE CARIBBEAN</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/latvia/" id="latvia">Latvia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/least-developed-countries/" id="least-developed-countries">Least developed countries</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/lebanon/" id="lebanon">Lebanon</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/lesotho/" id="lesotho">Lesotho</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/less-developed-regions/" id="less-developed-regions">Less developed regions</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/less-developed-regions-excluding-china/" id="less-developed-regions-excluding-china">Less developed regions excluding China</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/less-developed-regions-excluding-least-developed-countries/" id="less-developed-regions-excluding-least-developed-countries">Less developed regions excluding least developed countries</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/liberia/" id="liberia">Liberia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/libya/" id="libya">Libya</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/lithuania/" id="lithuania">Lithuania</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/luxembourg/" id="luxembourg">Luxembourg</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-M">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/macao-sar-china/" id="macao-sar-china">Macao SAR (China)</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/madagascar/" id="madagascar">Madagascar</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/malawi/" id="malawi">Malawi</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/malaysia/" id="malaysia">Malaysia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/maldives/" id="maldives">Maldives</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/mali/" id="mali">Mali</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/malta/" id="malta">Malta</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/martinique/" id="martinique">Martinique</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/mauritania/" id="mauritania">Mauritania</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/mauritius/" id="mauritius">Mauritius</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/mayotte/" id="mayotte">Mayotte</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/melanesia/" id="melanesia">Melanesia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/mexico/" id="mexico">Mexico</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/micronesia/" id="micronesia">Micronesia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/micronesia-fed-states-of/" id="micronesia-fed-states-of">Micronesia (Fed. States of)</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/middle-africa/" id="middle-africa">Middle Africa</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/mongolia/" id="mongolia">Mongolia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/montenegro/" id="montenegro">Montenegro</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/more-developed-regions/" id="more-developed-regions">More developed regions</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/morocco/" id="morocco">Morocco</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/mozambique/" id="mozambique">Mozambique</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/myanmar/" id="myanmar">Myanmar</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-N">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/namibia/" id="namibia">Namibia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/nepal/" id="nepal">Nepal</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/netherlands/" id="netherlands">Netherlands</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/new-caledonia/" id="new-caledonia">New Caledonia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/new-zealand/" id="new-zealand">New Zealand</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/nicaragua/" id="nicaragua">Nicaragua</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/niger/" id="niger">Niger</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/nigeria/" id="nigeria">Nigeria</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/northern-africa/" id="northern-africa">Northern Africa</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/northern-america/" id="northern-america">NORTHERN AMERICA</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/northern-europe/" id="northern-europe">Northern Europe</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/norway/" id="norway">Norway</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-O">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/oceania/" id="oceania">OCEANIA</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/oman/" id="oman">Oman</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/other-non-specified-areas/" id="other-non-specified-areas">Other non-specified areas</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-P">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/pakistan/" id="pakistan">Pakistan</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/panama/" id="panama">Panama</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/papua-new-guinea/" id="papua-new-guinea">Papua New Guinea</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/paraguay/" id="paraguay">Paraguay</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/peru/" id="peru">Peru</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/philippines/" id="philippines">Philippines</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/poland/" id="poland">Poland</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/polynesia/" id="polynesia">Polynesia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/portugal/" id="portugal">Portugal</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/puerto-rico/" id="puerto-rico">Puerto Rico</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-Q">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/qatar/" id="qatar">Qatar</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-R">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/republic-of-korea/" id="republic-of-korea">Republic of Korea</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/republic-of-moldova/" id="republic-of-moldova">Republic of Moldova</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/romania/" id="romania">Romania</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/runion/" id="runion">Runion</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/russian-federation/" id="russian-federation">Russian Federation</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/rwanda/" id="rwanda">Rwanda</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-S">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/saint-lucia/" id="saint-lucia">Saint Lucia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/saint-vincent-and-the-grenadines/" id="saint-vincent-and-the-grenadines">Saint Vincent and the Grenadines</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/samoa/" id="samoa">Samoa</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/sao-tome-and-principe/" id="sao-tome-and-principe">Sao Tome and Principe</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/saudi-arabia/" id="saudi-arabia">Saudi Arabia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/senegal/" id="senegal">Senegal</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/serbia/" id="serbia">Serbia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/seychelles/" id="seychelles">Seychelles</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/sierra-leone/" id="sierra-leone">Sierra Leone</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/singapore/" id="singapore">Singapore</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/slovakia/" id="slovakia">Slovakia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/slovenia/" id="slovenia">Slovenia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/solomon-islands/" id="solomon-islands">Solomon Islands</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/somalia/" id="somalia">Somalia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/south-africa/" id="south-africa">South Africa</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/south-america/" id="south-america">South America</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/south-central-asia/" id="south-central-asia">South-Central Asia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/south-eastern-asia/" id="south-eastern-asia">South-Eastern Asia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/south-sudan/" id="south-sudan">South Sudan</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/southern-africa/" id="southern-africa">Southern Africa</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/southern-asia/" id="southern-asia">Southern Asia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/southern-europe/" id="southern-europe">Southern Europe</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/spain/" id="spain">Spain</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/sri-lanka/" id="sri-lanka">Sri Lanka</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/state-of-palestine/" id="state-of-palestine">State of Palestine</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/sub-saharan-africa/" id="sub-saharan-africa">Sub-Saharan Africa</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/sudan/" id="sudan">Sudan</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/suriname/" id="suriname">Suriname</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/swaziland/" id="swaziland">Swaziland</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/sweden/" id="sweden">Sweden</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/switzerland/" id="switzerland">Switzerland</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/syrian-arab-republic/" id="syrian-arab-republic">Syrian Arab Republic</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-T">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/tajikistan/" id="tajikistan">Tajikistan</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/tfyr-macedonia/" id="tfyr-macedonia">TFYR Macedonia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/thailand/" id="thailand">Thailand</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/timor-leste/" id="timor-leste">Timor-Leste</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/togo/" id="togo">Togo</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/tonga/" id="tonga">Tonga</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/trinidad-and-tobago/" id="trinidad-and-tobago">Trinidad and Tobago</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/tunisia/" id="tunisia">Tunisia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/turkey/" id="turkey">Turkey</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/turkmenistan/" id="turkmenistan">Turkmenistan</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-U">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/uganda/" id="uganda">Uganda</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/ukraine/" id="ukraine">Ukraine</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link selected_link "
+                           href="/united-arab-emirates/" id="united-arab-emirates">United Arab Emirates</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/united-kingdom/" id="united-kingdom">United Kingdom</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/united-republic-of-tanzania/" id="united-republic-of-tanzania">United Republic of Tanzania</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/united-states-of-america/" id="united-states-of-america">United States of America</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/united-states-virgin-islands/" id="united-states-virgin-islands">United States Virgin Islands</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/uruguay/" id="uruguay">Uruguay</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/uzbekistan/" id="uzbekistan">Uzbekistan</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-V">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/vanuatu/" id="vanuatu">Vanuatu</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/venezuela-bolivarian-republic-of/" id="venezuela-bolivarian-republic-of">Venezuela (Bolivarian Republic of)</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/viet-nam/" id="viet-nam">Viet Nam</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-W">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/western-africa/" id="western-africa">Western Africa</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/western-asia/" id="western-asia">Western Asia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/western-europe/" id="western-europe">Western Europe</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/western-sahara/" id="western-sahara">Western Sahara</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/world/" id="world">WORLD</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-Y">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/yemen/" id="yemen">Yemen</a>
+                    </div>
+                    
+                </div>
+                
+                <div class="countryList" id="tabs-Z">
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/zambia/" id="zambia">Zambia</a>
+                    </div>
+                    
+                    <div class="countryNameDiv">
+                        <a class="country_link "
+                           href="/zimbabwe/" id="zimbabwe">Zimbabwe</a>
+                    </div>
+                    
+                </div>
+                
+            </div>
+        </div>
+        <!-- closing right content div-->
+        <div id="canvas_container_div">
+            <div id="canvas_container"></div>
+        </div>
+        <div id="urlDiv">
+            Link to this graph: <span id="urlSpan"><a href="http://populationpyramid.net/united-arab-emirates/">http://populationpyramid.net/united-arab-emirates/</a></span>
+        </div>
+    </div>
+    <div id="footer">
+        <p>
+            Visualization by <a href='http://multitasked.net'>Martin De Wulf</a> (<a href='http://twitter.com/madewulf'>@madewulf</a>) &mdash; All code on <a href='https://github.com/madewulf/populationpyramid.net'>github</a> &mdash; <a href='http://madewulf.github.com/PopulationPyramid.net/' id='blog_link'>Previous version of the site, with data from 2008.</a>
+        </p>
+        <p>Keywords: demography, population pyramid, age pyramid, aging, retirement.  &mdash; You might also like <a href="http://migrationsmap.net">migrationsmap.net</a> </p>
+        <p>
+            Source: United Nations, Department of Economic and Social Affairs, Population Division. World
+            Population
+            Prospects: The 2012 Revision. (Medium variant)
+        </p>
+        <p> Do not hesitate to report translation errors to <a href="mailto:madewulf@multitasked.net">madewulf@multitasked.net</a></p>
+    </div>
+    <div id="bottom_ad">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- bottom-ad -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:728px;height:90px"
+             data-ad-client="ca-pub-1518193825189302"
+             data-ad-slot="1293892470"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+
+</div>
+</body>
+
+</html>

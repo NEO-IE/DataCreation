@@ -1,0 +1,61 @@
+# 
+# General
+#
+numSearchResults=250
+snippetWindowSize=15
+indexDir=webcrawlIndex_new
+ranksvm.model=ranksvm.model
+InternetAccess.HTTPProxyHost = 10.129.5.102
+InternetAccess.HTTPProxyPort = 3128
+
+#
+# Change - Abhirut 12 - Sep - 2013, Index for tables
+#
+tableIndexDir=webcrawlTableIndex
+
+#
+# Web search network access config
+#
+WebSearch.serviceName = msn
+#WebSearch.GoogleAPIKey = eZ23amdQFHJnEssuGUgbP1xG4CwvIX3i
+WebSearch.GoogleAPIKey = WY9bFKJQFHKElRtRPWc3VapOJFRzxiC5
+WebSearch.IISURL = http://panorama.it.iitb.ac.in/MSNSearch/SearchXML.aspx
+WebSearch.MSNAPPID = BF9CEE3EE2CF41970BCB31B14A2FB858994D7D0C
+WebSearch.numDocs = 20000000000
+
+#
+# Page cache
+#
+WebSearch.pageFetchTimeout = 20000
+WebSearch.pageFetchParallelism = 10
+WebSearch.pageCacheDir = PageCache_new
+WebSearch.pageCacheFile = PageCache.xml
+WebSearch.htmlBaseDir = HTMLBase
+WebSearch.maxPageLength = 200000
+
+#
+# Web search database selector: none, je, jdbc
+#
+WebSearch.whichDB = none
+
+# In case of je...
+WebSearch.jeDataDir = ResultCache_new
+
+# In case of jdbc...
+WebSearch.DBDriver = org.postgresql.Driver
+WebSearch.DBURL = jdbc:postgresql://10.129.5.102/websearch
+WebSearch.DBUser = soumen
+
+#
+# Proximity options
+#
+WebSearch.snippetDir = Snippets
+WebSearch.maxGap = 20
+
+#
+#Authentication details
+#
+GoogleAPIKey = AIzaSyBJOWwpgFTQeGO2OBHLTUBallUVeVv4vZw
+ProxyUser = abhirut
+ProxyPassword = world*2011
+
